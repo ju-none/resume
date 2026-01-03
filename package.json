@@ -1,0 +1,32 @@
+{
+  "name": "resume-monorepo",
+  "private": true,
+  "scripts": {
+    "clear": "rm -rf dist nodes_modules **/nodes_modules */nodes_modules **/*/nodes_modules && yarn install",
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{js,ts,jsx,tsx,md}\""
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "path": "^0.12.7",
+    "processmd": "^4.7.0",
+    "react-router-dom": "^7.1.3",
+    "reactstrap": "^9.2.3",
+    "sass": "^1.83.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "turbo": "^2.3.3",
+    "typescript": "5.5.4"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "yarn@1.22.22",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
