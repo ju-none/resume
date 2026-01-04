@@ -1,9 +1,8 @@
 import Sidebar from "@front/components/bar/Sidebar";
-import { Outlet } from "react-router-dom";
 
 import "@styles/layout.scss";
 
-export default function Layout() {
+export default function Layout({children} : { children : any }) {
   return (
     <main className="flex h-full global-layout">
       <aside className="flex-none global-sidebar">
@@ -11,7 +10,7 @@ export default function Layout() {
       </aside>
       <section className="flex-1 page-content">
         <div className="page-body">
-          <Outlet />
+          {children}
         </div>
       </section>
     </main>
