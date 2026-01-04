@@ -1,0 +1,13 @@
+.block {
+    padding: 10px;
+    max-width: 80%;
+    margin: 0vw auto;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: row;
+    @media (max-width: 768px) {
+        flex-direction: column;
+    }
+}

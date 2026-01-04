@@ -9,7 +9,7 @@ body {
 }
 
 /* ================ The Timeline ================ */
-.formation {
+.block {
 .timeline {
   position: relative;
   width: 660px;
@@ -83,6 +83,7 @@ body {
   img {
     width: 10vw;
     display: flex;
+    margin: auto;
   }
 }
 

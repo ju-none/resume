@@ -1,3 +1,4 @@
+import Separator from "@front/components/headers/Separator";
 import { useLanguage } from "@pkg/contexts/LanguageContext"
 import "@styles/components/timeline.scss"
 import "@styles/pages/formation.scss"
@@ -7,7 +8,8 @@ export default function Formation() {
     const { t } = useLanguage();
     return (
         <section className="formation" id="formation">
-            <Container fluid className="form-block">
+            <Separator title='Formation' />
+            <Container fluid className="block">
                 <ul className="timeline">
                     <li>
                         <div className="direction-r">
