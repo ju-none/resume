@@ -9,6 +9,11 @@
         "image": "js.png",
         "category": "Web Language"
     },
+    "ts": {
+        "title": "TypeScript",
+        "image": "ts.png",
+        "category": "Web Language"
+    },
     "c": {
         "title": "C",
         "image": "c.png",
@@ -88,11 +93,6 @@
         "title": "Tailwind",
         "image": "tailwind.png",
         "category": "Technologie"
-    },
-    "ts": {
-        "title": "TypeScript",
-        "image": "ts.png",
-        "category": "Software Language"
     },
     "twitch": {
         "title": "Twitch",
