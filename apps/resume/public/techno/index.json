@@ -1,0 +1,112 @@
+{
+    "react": {
+        "title": "React",
+        "image": "react.png",
+        "category": "Framework"
+    },
+    "js": {
+        "title": "JavaScript",
+        "image": "js.png",
+        "category": "Web Language"
+    },
+    "c": {
+        "title": "C",
+        "image": "c.png",
+        "category": "Software Language"
+    },
+    "c++": {
+        "title": "C++",
+        "image": "cpp.png",
+        "category": "Software Language"
+    },
+    "supabase": {
+        "title": "Supabase",
+        "image": "supabase.png",
+        "category": "Technologie"
+    },
+    "turbo": {
+        "title": "Turbo Mono Repo",
+        "image": "turbo.png",
+        "category": "Technologie"
+    },
+    "vercel": {
+        "title": "Vercel",
+        "image": "vercel.png",
+        "category": "Technologie"
+    },
+    "expo": {
+        "title": "Expo Dev",
+        "image": "expo.jpeg",
+        "category": "Technologie"
+    },
+    "asm": {
+        "title": "Assembleur",
+        "image": "asm.png",
+        "category": "Software Language"
+    },
+    "css": {
+        "title": "CSS",
+        "image": "css.png",
+        "category": "Web Language"
+    },
+    "discord.py" : {
+        "title": "Discord.py",
+        "image": "discord.jpg",
+        "category": "Technologie"
+    },
+    "gh-pages": {
+        "title": "Github Pages",
+        "image": "gh.png",
+        "category": "Technologie"
+    },
+    "html": {
+        "title": "HTML",
+        "image": "html.png",
+        "category": "Web Language"
+    },
+    "php": {
+        "title": "PHP",
+        "image": "php.png",
+        "category": "Web Language"
+    },
+    "python": {
+        "title": "Python",
+        "image": "python.png",
+        "category": "Software Language"
+    },
+    "sqllite": {
+        "title": "SQL Lite",
+        "image": "sqllite.png",
+        "category": "Software Language"
+    },
+    "java": {
+        "title": "Java",
+        "image": "java.png",
+        "category": "Software Language"
+    },
+    "tailwind": {
+        "title": "Tailwind",
+        "image": "tailwind.png",
+        "category": "Technologie"
+    },
+    "ts": {
+        "title": "TypeScript",
+        "image": "ts.png",
+        "category": "Software Language"
+    },
+    "twitch": {
+        "title": "Twitch",
+        "image": "twitch.png",
+        "category": "Technologie"
+    },
+    "vue": {
+        "title": "Vue",
+        "image": "vue.png",
+        "category": "Framework"
+    },
+    "stripe": {
+        "title": "Stripe",
+        "image": "stripe.png",
+        "category": "Technologie"
+    }
+}
