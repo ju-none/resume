@@ -9,6 +9,7 @@ import Profile from '@front/pages/profile';
 import Formation from '@front/pages/formation';
 import Experience from '@front/pages/experience';
 import Skills from '@front/pages/skills';
+import Projects from '@front/pages/projects';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Layout>
             <Profile />
             <Skills />
+            <Projects />
             <Experience />
             <Formation />
           </Layout>

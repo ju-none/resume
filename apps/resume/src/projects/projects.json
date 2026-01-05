@@ -1,0 +1,140 @@
+{
+  "fileMap": {
+    "src/projects/json/ace.json": {
+      "title": "ACE Site Web",
+      "subtitle": null,
+      "date": {
+        "start": "2024-2025"
+      },
+      "brief": null,
+      "image": "ACE.png",
+      "links": {
+        "1": "https://ace-ulb.be"
+      },
+      "techno": {
+        "1": "react",
+        "2": "js",
+        "3": "gh-pages"
+      },
+      "dir": "src/projects/json",
+      "base": "ace.json",
+      "ext": ".json",
+      "sourceBase": "ace.md",
+      "sourceExt": ".md"
+    },
+    "src/projects/json/cistem.json": {
+      "title": "C.I.S.T.E.M",
+      "subtitle": "Centralized Inventory and Supply Tracking for Event Management",
+      "date": {
+        "start": "01-02-2025",
+        "end": "02-02-2025"
+      },
+      "brief": null,
+      "image": "cistem.svg",
+      "links": {
+        "1": "https://github.com/Cerkinfo/CISTEM",
+        "2": "https://fosdem.org"
+      },
+      "techno": {
+        "1": "react",
+        "2": "ts",
+        "3": "turbo",
+        "4": "supabase",
+        "5": "gh-pages"
+      },
+      "dir": "src/projects/json",
+      "base": "cistem.json",
+      "ext": ".json",
+      "sourceBase": "cistem.md",
+      "sourceExt": ".md"
+    },
+    "src/projects/json/cms.json": {
+      "title": "CMS Studio",
+      "subtitle": "WeShre Studio CMS",
+      "date": {
+        "start": 2025
+      },
+      "brief": null,
+      "image": "studio.svg",
+      "links": {
+        "1": "https://github.com/weshre-dev/CMS-Studio",
+        "2": "https://studio.weshre.com"
+      },
+      "techno": {
+        "1": "react",
+        "2": "vue",
+        "3": "ts",
+        "4": "html",
+        "5": "css",
+        "6": "turbo",
+        "7": "vercel",
+        "8": "gh-pages"
+      },
+      "dir": "src/projects/json",
+      "base": "cms.json",
+      "ext": ".json",
+      "sourceBase": "cms.md",
+      "sourceExt": ".md"
+    },
+    "src/projects/json/stvevent.json": {
+      "title": "St-V Event",
+      "subtitle": "Saint-Verheagen Online",
+      "date": {
+        "start": "20-11-2020",
+        "end": null
+      },
+      "brief": null,
+      "image": "stvevent.png",
+      "links": {
+        "1": "https://auvio.rtbf.be/media/journal-televise-sujet-par-sujet-saint-v-une-fete-virtuelle-pour-les-etudiants-2706235"
+      },
+      "techno": {
+        "1": "react",
+        "2": "js",
+        "3": "stripe",
+        "4": "sqllite",
+        "5": "discord.py",
+        "6": "twitch"
+      },
+      "dir": "src/projects/json",
+      "base": "stvevent.json",
+      "ext": ".json",
+      "sourceBase": "stvevent.md",
+      "sourceExt": ".md"
+    },
+    "src/projects/json/weshre.json": {
+      "title": "WeShre App",
+      "subtitle": null,
+      "date": {
+        "start": 2024
+      },
+      "brief": null,
+      "image": "weshre.svg",
+      "links": {
+        "1": "https://weshre.com"
+      },
+      "techno": {
+        "1": "react",
+        "2": "ts",
+        "3": "stripe",
+        "4": "supabase",
+        "5": "tailwind",
+        "6": "html",
+        "7": "css",
+        "8": "turbo"
+      },
+      "dir": "src/projects/json",
+      "base": "weshre.json",
+      "ext": ".json",
+      "sourceBase": "weshre.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "src/projects/md/ace.md",
+    "src/projects/md/cistem.md",
+    "src/projects/md/cms.md",
+    "src/projects/md/stvevent.md",
+    "src/projects/md/weshre.md"
+  ]
+}

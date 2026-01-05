@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "make": "yarn run make:projects",
+    "make:projects": "processmd src/projects/**/*.md --outputDir src/projects/json --preview 110 --summaryOutput src/projects/projects.json"
   },
   "dependencies": {
     "autoprefixer": "^10.4.22",
