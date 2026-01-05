@@ -2,3 +2,4 @@ node_modules
 .turbo
 yarn.lock
 .DS_Store
+apps/resume/src/projects/json

@@ -1,0 +1,19 @@
+.projects {
+    .card {
+        width: 16vw;
+        background-color: #444343;
+        border-radius: 22px;
+        color: white;
+        .img-block {
+            width: 15vw;
+            height: 15vw;
+            object-fit: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
